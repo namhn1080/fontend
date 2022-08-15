@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fir-a3e0c": {
+      "hosting": {
+        "Message": [
+          "fir-a3e0c"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fir-a3e0c"
+  }
+}
